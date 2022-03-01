@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sermon en proverbes. Tant va la cruche à l'eau qu'enfin elle se casse. / Ces paroles sont tirées de Thomas Corneille, Moliére et Compagnie: Sganarelle à  Dom-Juan, acte V scene 3.</title>
+            <author>Corneille, Thomas, 1625-1709.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650-9999?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B34542</idno>
+            <idno type="EEBO-CITATION">60546146</idno>
+            <idno type="OCLC">ocm 60546146</idno>
+            <idno type="VID">201432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B34542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201432)</note>
+            <note>Images scanned from microfilm: (Early English Books; tract supplement ; B2:2[211])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sermon en proverbes. Tant va la cruche à l'eau qu'enfin elle se casse. / Ces paroles sont tirées de Thomas Corneille, Moliére et Compagnie: Sganarelle à  Dom-Juan, acte V scene 3.</title>
+                  <author>Corneille, Thomas, 1625-1709.</author>
+                  <author>Molière, 1622-1673.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>de l'Imprimerie de L.-C. Diot,</publisher>
+                  <pubPlace>A Beauvais, :</pubPlace>
+                  <date>[not before 1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Decorative border; head-piece.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>French literature --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:201432:1" rendition="simple:additions"/>
+            <head>SERMON EN PROVERBES. Tant va la cruche à l'eau qu'enfin elle se casse. <hi>Ces paroles sont tirées de Thomas Corneille, Molière et Compagnie: Sganarelle à Dom-Juan, acte</hi> V <hi>scene</hi> 3.</head>
+            <opener>
+               <salute>MES CHERS FRÈRES,</salute>
+            </opener>
+            <p>CETTE Vérité devrait faire trembler tous les pécheurs; car en<g ref="char:EOLhyphen"/>fin Dieu est bon; mais aussi qui aime bien châtie bien. Il ne suffit pas de dire: je me convertirai; ce sont des paroles en l'air, au<g ref="char:EOLhyphen"/>tant en emporte le vent; un bon tien vaut mieux que deux tu l'auras. Il faut ajuster ses flûtes, et ne pas s'endormir sur le rôti; on sait bien où l'on est, mais on ne sait pas où l'on va, et quel<g ref="char:EOLhyphen"/>quefois on tombe de fièvre en chaud mal: on troque son cheval borgne contre un aveugle.</p>
+            <p>Au surplus, mes chers frères, honni soit qui mal y pense. Il n'est pas de plus sourd que celui qui ne veut pas entendre; à décrasser un More on perd son tems et son savon, et l'on ne peut faire boire un âne s'il n'a soif. Suffit, je parle comme S. Paul, la bouche ou<g ref="char:EOLhyphen"/>verte et pour tout le monde, et qui se sent morveux se mouche; ce que je vous en dis, n'est pas que je vous en parle; mais comme un fou avise bien un sage, je vous dis votre fait, et ne vais point chercher midi à quatorze heures.</p>
+            <p>Oui, mes frères, vous vous amusez à la moutarde, vous faites des châteaux en Espagne; mais prenez garde, le démon vous guette, comme le chat fait la souris: il fait d'abord patte de velours, mais quand une fois il vous tiendra dans ses griffes il vous trai<g ref="char:EOLhyphen"/>tera de turc à more; alors vous aurez beau vous chatouiller pour vous faire rire et faire le bon apôtre, vous en aurez tout du long et tout du large. Si quelqu'un revenait de l'autre monde et qu'il en rapportât des nouvelles, alors ou y regarderait à deux fois: chat échaudé craint l'eau froide; quand on sait ce qu'en vaut l'aune, on y met le prix; mais la-dessus les plus clairvoyans n'y voient goutte. La nuit tous chats sont gris, et quand on est mort c'est pour long-tems.</p>
+            <p>Prenez garde, dit un grand homme, n'éveillez pas le chat qui dort; l'occasion fait le larron, mais les battus paieront l'amende; fin contre fin ne vaut rien pour doublure; ce qui est doux à la bouche est amer au coeur, et à la chandeleur sont les grandes dou<g ref="char:EOLhyphen"/>leurs. Vous êtes aises comme des rats en paille; vous avez le dos au feu et le ventre à table; on vous prèche et vous n'écoutez pas; je le crois bien, votre ventre aſfamé n'a point d'oreilles; mais aussi rira bien qui rira le dernier. Tout passe, tout casse, tout lasse; ce qui vient de la flûte retourne au tambour, et on se trou<g ref="char:EOLhyphen"/>ve le cul entre deux selles; on veut recourir aux branches, mais alors il n'est plus tems, l'arbre est abattu; c'est de la moutarde après diné; il est trop tard de fermer l'écurie quand les chevaux sont déhors.</p>
+            <p>Souvenez-vous donc bien, mes chers Frères, de cette leçon, faites vie qui dure; il ne s'agit pas de brûler la chandelle des deux bouts. Qui trop embrasse mal étreint, et qui court deux lièvres à la ſois n'en prend point. Il ne faut pas non plus jeter le manche après la coignée; Dieu a dit: aide-toi et je t'aiderai. Il n'est pas de marchand qui toujours gagne; quand on a peur du loup il ne faut pas aller au bois; mais contre mauvaise fortune il faut faire bon coeur, et battre le fer tandis qu'il est chaud. Un homme sur terre est toujours sur le qui-vive; on ne sait ni qui vit ni qui meurt; l'homme propose et Dieu dispose; tel qui rit aujourd'hui, diman<g ref="char:EOLhyphen"/>che pleurera; il n'est si bon cheval qui ne bronche; quand on parle du loup on en voit la queue.</p>
+            <p>Oui, messieurs, aux yeux de Dieu tout est égal, riche ou pau<g ref="char:EOLhyphen"/>vre, n'importe. Bonne renommée vaut mieux que ceinture dorée. Les riches paient les pauvres, et ils se servent souvent de la patte du chat pour tirer les marrons du feu; mais chacun pour soi, Dieu pour tout. Un auteur célèbre a dit: chacun son métier, les vaches sont bien gardées; il ne faut pas que Gros-Jean remontre à son Curé. chacun doit se mesurer à son aune; et comme on fait son lit on se couche. Tous les chemins vont à Rome, dit on, mais il faut les connaître, et ne pas prendre ceux qui sont pleins de pierres; il faut aller droit en besogne et ne pas mettre la charrue devant les boeufs. Quand on veut faire son salut, voyez-vous, il faut y aller de cul et de tête, comme une corneille qui abat des noix. Si le démon veut vous dérouter, laissez-le hurler: chien qui aboie ne mord pas; soyez bons chevaux de trompette, ne vous effarouchez pas du bruit. Les méchans vous riront au nez; mais c'est un rire qui ne passe pas le noeud de la gorge. Au demeurant chacun a son tour, et puis à chaque oiseau son nid semble beau; après la pluie vient le beau tems, et après la peine le plaisir; mais laissez dire; allez, trop gratter cuit, et trop parler nuit. Moquez-vous du qu'en dira-t-on, et ne croyez pas que qui se fait brebis le loup le mange. Dieu a dit: plus vous serez humiliés sur la terre, plus vous serez élevés au ciel.</p>
+            <p>Ecoutez bien ceci, mes enfans, je vous parle d'abondance de coeur: il n'est qu'un mot qui sauve, il ne faut pas tant de beurre pour faire un quarteron. Quiconque fera bien trouvera bien. Les écrits sont des mâles, et les paroles sont des femelles, dit-on, mais on prend les boeufs par les cornes, et l'homme par les paroles; quand les paroles sont dites, l'eau bénite est faite.</p>
+            <p>Faites donc de sérieuses réflexions, mes Frères; choisissez d'être à Dieu ou au diable, il n'y a pas de milieu; il faut passer par la porte ou par la fenêtre. Vous n'êtes pas ici pour enfiler des perles, c'est pour faire votre salut; le démon a beau vous dorer la pilule, quand le vin sera versé il faudra le boire, et c'est au fond du pot qu'on trouve le marc.</p>
+            <p>Au reste, à l'impossible nul n'est tenu; je ne veux pas vous sauver malgré vous. On dit que ce n'est rien de parler, il faut agir; et comme charité bien ordonnée commence par soi-même, je vais tâcher de faire mes orges, et de tirer mon épingle du jeu; alors quand je serai sauvé, arrive qui plante, allez au diable, je m'en lave les mains. Au nom du Père, etc.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>A BEAUVAIS, de l'Imprimerie de L.-C. DIOT.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
